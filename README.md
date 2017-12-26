@@ -5,6 +5,13 @@ CLI tool to replace every other letter of a word with and underscore ( \_ ) and 
 
 It's pretty dumb (spaces aren't ignored in the even/odd index check) but it's a quick way to generate obfuscated words/phrases for quizzes!
 
+## Running It
+
+```
+mvn clean package
+java -jar ./target/xmasdinner-1.0-SNAPSHOT-jar-with-dependencies.jar
+```
+
 ## Motiviation
 
 I originally made it for a family Christmas quiz using Christmas dinner ingredients/dishes and didn't want to manually replace the letters which would be error prone and boring.
