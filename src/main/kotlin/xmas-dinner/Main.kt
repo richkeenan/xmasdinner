@@ -2,6 +2,10 @@ package xmasdinner
 
 
 fun main(args: Array<String>) {
+
+    println("XMAS-DINNER")
+    println("Enter a word, or paste multiple lines and hit ENTER")
+
     var line = readLine()
     while (line != null) {
         val newWord = hideEveryOtherLetter(line)
