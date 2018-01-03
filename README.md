@@ -12,7 +12,7 @@ mvn clean package
 java -jar ./target/xmasdinner-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-## Motiviation
+## Motivation
 
 I originally made it for a family Christmas quiz using Christmas dinner ingredients/dishes and didn't want to manually replace the letters which would be error prone and boring.
 
