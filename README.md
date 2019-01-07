@@ -1,6 +1,6 @@
 # Xmas Dinner
 
-CLI tool to replace every other letter of a word with and underscore ( \_ ) and capitalises each letter, e.g.
+CLI tool to replace every other letter of a word with an underscore ( \_ ) and capitalises each letter, e.g.
 `Hello world` becomes `H_L_O W_R_D`.
 
 It's pretty dumb (spaces aren't ignored in the even/odd index check) but it's a quick way to generate obfuscated words/phrases for quizzes!
